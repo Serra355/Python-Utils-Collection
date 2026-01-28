@@ -28,7 +28,7 @@ python Password_Generator/main.py
 
 # Para la calculadora
 python Calculator/main.py
-
+```
 ---
 ### 👤 Autor
 **Luis Serra Rodríguez**
