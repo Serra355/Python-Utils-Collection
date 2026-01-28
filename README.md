@@ -28,3 +28,10 @@ python Password_Generator/main.py
 
 # Para la calculadora
 python Calculator/main.py
+
+---
+### 👤 Autor
+**Luis Serra Rodríguez**
+*Estudiante de Doble Grado en Ingeniería Informática + ADE en la Universitat Politècnica de València (UPV).*
+
+📫 **Contacto:** serraluis828@gmail.com | lserrod@ade.upv.es
