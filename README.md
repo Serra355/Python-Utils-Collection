@@ -24,7 +24,7 @@ Asegúrate de tener Python 3.14.2 instalado.
 
 ```bash
 # Para el generador de contraseñas
-python Password-Generator/main.py
+python Password_Generator/main.py
 
 # Para la calculadora
 python Calculator/main.py
