@@ -27,11 +27,11 @@ def obtener_datos_circuito(base__datos):
     print("Circuitos disponibles: Bahrain, Jeddah, Australia, Mónaco, Baku, Spa, Monza, Las Vegas, Spain \n")
 
     while True:
-        entrada = input("Escribe el nombre del circuito (o escribe 'manual' para introducir los datos: )").lower().strip()
+        entrada = input("Escribe el nombre del circuito (o escribe 'manual' para introducir los datos): ").lower().strip()
 
         if entrada == "manual":
             consumo = pedir_dato("Introduce el consumo manual (kg/vuelta): ", 1, 10)
-            prob_sc = pedir_dato("Introduce la probabilidad de safety car (0-100%)", 0 , 100)
+            prob_sc = pedir_dato("Introduce la probabilidad de safety car (0-100%): ", 0 , 100)
             return consumo, prob_sc
 
         elif entrada in base__datos:
@@ -78,3 +78,4 @@ else:
 
 print(f"Muestra obligatoria FIA: +1.00 kg")
 print(f"CARGA FINAL RECOMENDADA: {resultado_final:.2f} kg")
+
