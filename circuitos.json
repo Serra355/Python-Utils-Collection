@@ -1,0 +1,11 @@
+{
+    "bahrain": { "consumo": 1.75, "prob_sc": 60, "nombre": "Bahrain International Circuit" },
+    "jeddah": { "consumo": 2.10, "prob_sc": 90, "nombre": "Jeddah Corniche Circuit" },
+    "australia": { "consumo": 1.95, "prob_sc": 75, "nombre": "Albert Park" },
+    "monaco": { "consumo": 1.45, "prob_sc": 85, "nombre": "Circuit de Monaco" },
+    "spain": { "consumo": 1.80, "prob_sc": 30, "nombre": "Circuit de Barcelona-Catalunya" },
+    "spa": { "consumo": 2.45, "prob_sc": 65, "nombre": "Spa-Francorchamps" },
+    "monza": { "consumo": 2.30, "prob_sc": 45, "nombre": "Monza" },
+    "singapore": { "consumo": 1.90, "prob_sc": 100, "nombre": "Marina Bay" },
+    "las vegas": { "consumo": 2.25, "prob_sc": 75, "nombre": "Las Vegas Strip Circuit" }
+}
